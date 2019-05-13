@@ -43,6 +43,6 @@ The uploaded files are uploaded inside the **uploads** folder whereas the output
 ## Acknowledgments
 
 * Faculty support - **Prof. Shirish Gosavi**
-*Hat tip to anyone whose code was used
+* Hat tip to anyone whose code was used
 * Inspiration
 
