@@ -10,7 +10,7 @@ The converter uses handwritten images in jpeg, jpg, png etc format and converts 
 * Javascript
 * Python 3
 * Pytesseract
-
+* PHP
 
 ### Prerequisites
 
